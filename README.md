@@ -1,5 +1,5 @@
-# Hi there, I'm Rian 👋
-## 2x SWE Intern @ Microsoft | 7x Hackathon Winner | 20K+ Content Creator | CS @ Western Governors University
+# Hi there, I'm Onur 👋
+## SWE Intern @ Shopify | Hackathon Winner | Varsity Athlete | CS @ McGill University
 
 <div align="center">
   
@@ -10,12 +10,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=coderkai03&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=RealOnurGul&show_icons=true&theme=tokyonight" 
     alt="Rian's GitHub stats" 
     height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkai03&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealOnurGul&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
     height="150"
   />
@@ -23,8 +23,8 @@
 
 ## ➡️ About Me
 
-- 👋 Hi, I'm Rian! I'm a full-stack/AI developer.
-- 🎓 CS @ Western Governors University
+- 👋 Hi, I'm Onur! I'm a full-stack/AI developer.
+- 🎓 CS @ McGill University
 - 🎯 I love building AI tools that enhance everyday life!
 
 ## ✅ Languages and Frameworks
